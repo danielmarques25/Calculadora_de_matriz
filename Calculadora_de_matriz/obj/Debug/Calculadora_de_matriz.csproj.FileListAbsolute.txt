@@ -1,0 +1,9 @@
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\bin\Debug\Calculadora_de_matriz.exe.config
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\bin\Debug\Calculadora_de_matriz.exe
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\bin\Debug\Calculadora_de_matriz.pdb
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.Form1.resources
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.Properties.Resources.resources
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.csproj.GenerateResource.Cache
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.exe
+C:\Users\ronald.junior\Desktop\Calculadora_de_matriz\Calculadora_de_matriz\obj\Debug\Calculadora_de_matriz.pdb
